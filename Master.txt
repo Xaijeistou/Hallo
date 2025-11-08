@@ -2,8 +2,6 @@
 <End of Version>
 
 <Version: 1.11>
-
 /img/pictures/VN Bust Makoto ICW Pose 1 v1.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20v1.png
+/img/pictures/VNBustbruh.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20v1.png
 <End of Version>
-
-
