@@ -29,8 +29,10 @@
 /data/Weapons.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Weapons.json
 /data/Windows.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Windows.json
 /js/plugins/ScreenText.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/ScreenText.js
+/js/libs/zip.min.js 
 /img/pictures/Makoto.zip https://filebin.net/n1hrwhz589q8r6l0/Makoto.zip
 <End of Version>
+
 
 
 
