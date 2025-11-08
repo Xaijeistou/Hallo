@@ -28,7 +28,6 @@
 /data/Troops.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Troops.json
 /data/Weapons.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Weapons.json
 /data/Windows.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Windows.json
-
 /img/pictures/VN_Bust_Makoto_ICW_Pose_1_v1.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20v1.png
 /img/pictures/VN_Bust_Makoto_ICW_Pose_1_Blink0001.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Blink0001.png
 /img/pictures/VN_Bust_Makoto_ICW_Pose_1_Blink0002.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Blink0002.png
@@ -45,8 +44,9 @@
 /img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium0007.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0007.png
 /img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium0008.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0008.png
 /img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium0009.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0009.png
-/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium00010.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium00010.png
-/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium00011.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium00011.png
-/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium00012.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium00012.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium00010.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0010.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium00011.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0011.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium00012.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0012.png
 <End of Version>
+
 
