@@ -2,6 +2,51 @@
 <End of Version>
 
 <Version: 1.11>
-/img/pictures/VN Bust Makoto ICW Pose 1 v1.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20v1.png
-/img/pictures/VNBustbruh.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20v1.png
+/data/Actors.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Actors.json
+/data/Animations.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Animations.json
+/data/Armors.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Armors.json
+/data/BattleHUD.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/BattleHUD.json
+/data/Classes.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Classes.json
+/data/CommonEvents.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/CommonEvents.json
+/data/DataEX.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/DataEX.json
+/data/Enemies.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Enemies.json
+/data/face_animation_data.csv https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/face_animation_data.csv
+/data/Items.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Items.json
+/data/Map001.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Map001.json
+/data/Map002.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Map002.json
+/data/Map003.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Map003.json
+/data/Map005.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Map005.json
+/data/Map006.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Map006.json
+/data/Map007.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Map007.json
+/data/MapHUD.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/MapHUD.json
+/data/MapInfos.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/MapInfos.json
+/data/Notes.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Notes.json
+/data/Skills.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Skills.json
+/data/States.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/States.json
+/data/System.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/System.json
+/data/Tilesets.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Tilesets.json
+/data/Troops.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Troops.json
+/data/Weapons.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Weapons.json
+/data/Windows.json https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/data/Windows.json
+
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_v1.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20v1.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Blink0001.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Blink0001.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Blink0002.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Blink0002.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Blink0003.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Blink0003.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Blink0004.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Blink0004.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Blink0005.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Blink0005.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Blink0006.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Blink0006.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium0001.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0001.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium0002.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0002.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium0003.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0003.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium0004.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0004.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium0005.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0005.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium0006.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0006.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium0007.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0007.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium0008.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0008.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium0009.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium0009.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium00010.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium00010.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium00011.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium00011.png
+/img/pictures/VN_Bust_Makoto_ICW_Pose_1_Yap_Medium00012.png https://filebin.net/n1hrwhz589q8r6l0/VN%20Bust%20Makoto%20ICW%20Pose%201%20Yap%20Medium00012.png
 <End of Version>
+
