@@ -31,6 +31,7 @@
 /js/plugins/ScreenText.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/ScreenText.js
 /js/libs/jszip.min.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/jszip.min.js
 index.html https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/index.html
-/img/pictures/Makoto.zip https://filebin.net/archive/n1hrwhz589q8r6l0/zip
+/img/pictures/Makoto.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/Makoto.zip
 <End of Version>
+
 
