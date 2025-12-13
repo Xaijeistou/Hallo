@@ -33,8 +33,9 @@
 index.html https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/index.html
 /movies/Myriorama_Opening.mkv https://store-na-tor-1.gofile.io/download/web/3be99d70-c38b-4801-9c98-e28535869b90/Myriorama_Opening.mkv
 /movies/SystemTextboxBase.webm https://cold7.gofile.io/download/web/66d54bfc-1473-4cda-ae79-e0d6a872ce1a/SystemTextboxBase.webm
-/audio/bgm/Rayleigh https://store-na-tor-1.gofile.io/download/web/33d3c938-3ca5-493a-a7ca-81a6ec6220df/Rayleigh.ogg
+/audio/bgm/Rayleigh.ogg https://store-na-tor-1.gofile.io/download/web/33d3c938-3ca5-493a-a7ca-81a6ec6220df/Rayleigh.ogg
 <End of Version>
+
 
 
 
