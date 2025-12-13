@@ -1,7 +1,7 @@
 <Version: 1.01>
 <End of Version>
 
-<Version: 1.11>
+<Version: 1.12>
 /data/Actors.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Animations.json
 /data/Armors.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Armors.json
@@ -31,7 +31,11 @@
 /js/plugins/ScreenText.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/ScreenText.js
 /js/libs/jszip.min.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/jszip.min.js
 index.html https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/index.html
-/img/pictures/Makoto.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/Makoto.zip
+/movies/Dreamcast_Startup_NTSC_HD.mkv https://store-na-tor-1.gofile.io/download/web/41333590-7d13-4530-af4c-bf8b6ae0619e/Dreamcast_Startup_NTSC_HD.mkv
+/movies/Myriorama_Opening.mkv https://store-na-tor-1.gofile.io/download/web/3be99d70-c38b-4801-9c98-e28535869b90/Myriorama_Opening.mkv
+/movies/SystemTextboxBase.webm https://cold7.gofile.io/download/web/66d54bfc-1473-4cda-ae79-e0d6a872ce1a/SystemTextboxBase.webm
+/audio/bgm/Rayleigh https://store-na-tor-1.gofile.io/download/web/33d3c938-3ca5-493a-a7ca-81a6ec6220df/Rayleigh.ogg
 <End of Version>
+
 
 
