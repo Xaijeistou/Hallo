@@ -26,8 +26,9 @@
 /data/Weapons.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Weapons.json
 /data/Windows.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Windows.json
 /js/plugins/MIDIPlayer.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/MIDIPlayer.js
-/midi.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/MIDI/midi.zip
+/audio/midi/midi.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/MIDI/midi.zip
 <End of Version>
+
 
 
 
