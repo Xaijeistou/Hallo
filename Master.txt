@@ -25,9 +25,11 @@
 /data/Troops.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Troops.json
 /data/Weapons.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Weapons.json
 /data/Windows.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Windows.json
+/js/libs/JZZ.synth.Tiny.js https://raw.githubusercontent.com/jazz-soft/JZZ-synth-Tiny/refs/heads/master/javascript/JZZ.synth.Tiny.js
 /js/plugins/MIDIPlayer.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/MIDIPlayer.js
 /audio/midi/midi.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/MIDI/midi.zip
 <End of Version>
+
 
 
 
