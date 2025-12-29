@@ -1,4 +1,4 @@
-<Version: 1.001>
+<Version: 1.002>
 /data/Actors.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Animations.json
 /data/Armors.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Armors.json
@@ -28,6 +28,7 @@
 /js/plugins/MIDIPlayer.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/MIDIPlayer.js
 /audio/midi/midi.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/MIDI/midi.zip
 <End of Version>
+
 
 
 
