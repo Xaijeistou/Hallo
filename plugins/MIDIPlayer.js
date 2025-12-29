@@ -39,6 +39,9 @@
     let currentPlayer = null;    // Current SMF player instance
     let currentPortName = null;  // Name or index of the selected port
 
+	// setup Tiny for plebs
+	JZZ.synth.Tiny.register('Tiny');
+
     // Open (or reopen) the MIDI output port. If portArg is undefined, open default (first) port.
     function openMidiOut(portArg) {
 
@@ -180,4 +183,5 @@
         }
     };
 })();
+
 
