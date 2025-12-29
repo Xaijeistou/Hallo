@@ -12,13 +12,13 @@
  *
  * Examples:
  *   Plugin Command: MidiPlay battleThemeIntro battleThemeLoop
- *   Plugin Command: MidiSetPort "Microsoft GS Wavetable Synth"
+ *   Plugin Command: MidiSetPort Tiny
  *	 Plugin Command: MidiSetPort 0
  *   Plugin Command: MidiStop 2000    # Fades out over 2 seconds
  *
  * Notes:
  * - Set port before playing MIDIs
- * - Always stop one track before playing a new one
+ * - Preferably to stop one track before playing a new one
  * - Volume is set to whatever variable 15 is.
  * - The loopname can be the same as the first file if you want to loop it normally. Leave blank for no loop.
  * - Make sure MIDIs are at least FM ready. Otherwise some MIDIs might crash on loop, and some MIDIs just crash on play ¯\_(ツ)_/¯
@@ -26,6 +26,7 @@
  * Dependencies:
  *   - JZZ.js
  *   - JZZ.midi.SMF.js
+ *   - JZZ.synth.Tiny.js
  *   Place them in js/libs and load them in index.html before main.js.
  */
 
@@ -183,5 +184,6 @@
         }
     };
 })();
+
 
 
