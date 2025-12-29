@@ -63,7 +63,9 @@
             currentPlayer = null;
         }
 		
-        let filePath = path.join('audio', 'midi', baseName + '.mid');
+        // let filePath = path.join('audio', 'midi', baseName + '.mid');
+		// above is for in-engine, below is used because export has www folder
+		let filePath = path.join('www', 'audio', 'midi', baseName + '.mid');
 		if (!fs.existsSync(filePath)) {
 			console.error(`MidiPlayer: MIDI file not found: ${filePath}`);
 			return;
@@ -178,3 +180,4 @@
         }
     };
 })();
+
