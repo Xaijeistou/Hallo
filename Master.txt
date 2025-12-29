@@ -26,10 +26,9 @@
 /data/Weapons.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Weapons.json
 /data/Windows.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Windows.json
 /js/plugins/MIDIPlayer.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/MIDIPlayer.js
-/audio/midi/FF7_GM_1-02_Opening_Bombing_Mission.mid https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/MIDI/FF7_GM_1-02_Opening_Bombing_Mission.mid
-/audio/midi/gm_eve_43.mid https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/MIDI/gm_eve_43.mid
-/audio/midi/40585_Vs-Susie.mid https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/MIDI/40585_Vs-Susie.mid
+/midi.zip https://github.com/Xaijeistou/Hallo/raw/refs/heads/main/MIDI/midi.zip
 <End of Version>
+
 
 
 
