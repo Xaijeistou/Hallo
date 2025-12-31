@@ -1,4 +1,4 @@
-<Version: 1.0033>
+<Version: 1.0034>
 /index.html https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/index.html
 /data/Actors.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Animations.json
@@ -30,6 +30,7 @@
 /js/plugins/MIDIPlayer.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/MIDIPlayer.js
 /audio/midi/midi.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/MIDI/midi.zip
 <End of Version>
+
 
 
 
