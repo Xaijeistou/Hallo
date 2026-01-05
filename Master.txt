@@ -30,8 +30,9 @@
 /js/plugins/MIDIPlayer.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/MIDIPlayer.js
 /audio/midi/midi.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/MIDI/midi.zip
 /audio/voice/voiceS2.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/voiceS2.zip
-/img/pictures https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/rage.zip
+/img/pictures/rage.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/rage.zip
 <End of Version>
+
 
 
 
