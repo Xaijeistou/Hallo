@@ -1,4 +1,4 @@
-<Version: 1.003899>
+<Version: 1.0038999>
 /index.html https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/index.html
 /data/Actors.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Animations.json
@@ -32,6 +32,7 @@
 /audio/voice/voiceS2.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/voiceS2.zip
 /img/pictures/rage.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/rage.zip
 <End of Version>
+
 
 
 
