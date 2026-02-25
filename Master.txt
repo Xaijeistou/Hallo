@@ -1,33 +1,3 @@
 <Version: 1.021>
 /data/Map006.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Map006.json
 <End of Version>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
