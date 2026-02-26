@@ -1,5 +1,6 @@
 <Version: 1.0223>
 /data/CommonEvents.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/CommonEvents.json
+/data/Map001.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Map001.json
 /data/Map006.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Map006.json
 <End of Version>
 
