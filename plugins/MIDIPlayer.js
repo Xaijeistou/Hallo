@@ -40,19 +40,15 @@
     let currentPlayer = null;    // Current SMF player instance
     let currentPortName = null;  // Name or index of the selected port
 
-	// setup Tiny for plebs
-	JZZ.synth.Tiny.register('Tiny');
-
     // Open (or reopen) the MIDI output port. If portArg is undefined, open default (first) port.
     function openMidiOut(portArg) {
 
         if (midiOut && midiOut.close) midiOut.close();
         try {
-
-            midiOut = JZZ().openMidiOut(portArg || []);
+            midiOut = JZZ().openMidiOut(portArg || currentPortName);
         } catch (e) {
-            console.error("MidiPlayer: Cannot open MIDI out", e);
-            midiOut = null;
+            console.log("MidiPlayer: Cannot open MIDI out", e);
+            // midiOut = JZZ().openMidiOut(['Microsoft GS Wavetable Synth 0', 'Apple DLS Synth', 0]);
         }
         if (midiOut) {
             console.log("MidiPlayer: MIDI Out opened:", midiOut.name());
@@ -67,9 +63,9 @@
             currentPlayer = null;
         }
 		
-        // let filePath = path.join('audio', 'midi', baseName + '.mid');
-		// above is for in-engine, below is used because export has www folder
-		let filePath = path.join('www', 'audio', 'midi', baseName + '.mid');
+        let filePath = path.join('audio', 'midi', baseName + '.mid');
+		// ON EXPORT, USE THIS VERSION WITH www OTHERWISE IT WILL BREAK
+		// let filePath = path.join('www', 'audio', 'midi', baseName + '.mid');
 		if (!fs.existsSync(filePath)) {
 			console.error(`MidiPlayer: MIDI file not found: ${filePath}`);
 			return;
@@ -184,6 +180,3 @@
         }
     };
 })();
-
-
-
