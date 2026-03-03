@@ -1,6 +1,7 @@
-<Version: 1.0223>
+<Version: 1.024>
 /js/plugins/MIDIPlayer.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/MIDIPlayer.js
 <End of Version>
+
 
 
 
