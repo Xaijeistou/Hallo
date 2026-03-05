@@ -1,6 +1,8 @@
-<Version: 1.024>
+<Version: 1.025>
+/data/CommonEvents.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/CommonEvents.json
 /js/plugins/MIDIPlayer.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/MIDIPlayer.js
 <End of Version>
+
 
 
 
