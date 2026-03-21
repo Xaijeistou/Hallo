@@ -1,10 +1,11 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Bootup","order":1,"parentId":0,"scrollX":534,"scrollY":305},
-{"id":2,"expanded":true,"name":"Title Map","order":2,"parentId":1,"scrollX":534,"scrollY":305},
-{"id":3,"expanded":false,"name":"New Game Questioning Map","order":4,"parentId":2,"scrollX":534,"scrollY":305},
-{"id":4,"expanded":false,"name":"3D test map","order":7,"parentId":0,"scrollX":534,"scrollY":305},
-{"id":5,"expanded":true,"name":"Console","order":6,"parentId":0,"scrollX":534,"scrollY":297},
-{"id":6,"expanded":false,"name":"Title Menu","order":3,"parentId":2,"scrollX":534,"scrollY":305},
-{"id":7,"expanded":false,"name":"Extras","order":5,"parentId":2,"scrollX":534,"scrollY":319}
+{"id":1,"expanded":true,"name":"Bootup","order":1,"parentId":0,"scrollX":819,"scrollY":439.5},
+{"id":2,"expanded":true,"name":"Title Map","order":2,"parentId":1,"scrollX":819,"scrollY":439.5},
+{"id":3,"expanded":false,"name":"New Game Questioning Map","order":4,"parentId":2,"scrollX":819,"scrollY":439.5},
+{"id":4,"expanded":false,"name":"3D test map","order":7,"parentId":0,"scrollX":819,"scrollY":439.5},
+{"id":5,"expanded":true,"name":"Console","order":6,"parentId":0,"scrollX":811,"scrollY":431.5},
+{"id":6,"expanded":false,"name":"Title Menu","order":3,"parentId":2,"scrollX":819,"scrollY":439.5},
+{"id":7,"expanded":false,"name":"Extras","order":5,"parentId":2,"scrollX":819,"scrollY":439.5},
+{"id":8,"expanded":false,"name":"Tirro's Dormroom","order":8,"parentId":0,"scrollX":819,"scrollY":439.5}
 ]
