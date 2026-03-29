@@ -1,3 +1,4 @@
-<Version: 1.1>
+<Version: 1.11>
+/data/Map006.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Map006.json
 /js/plugins/MIDIPlayer.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/MIDIPlayer.js
 <End of Version>
