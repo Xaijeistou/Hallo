@@ -1,4 +1,4 @@
-<Version: 1.111>
+<Version: 1.112>
 /data/Actors.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Animations.json
 /data/Armors.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Armors.json
