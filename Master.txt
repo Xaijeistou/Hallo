@@ -27,5 +27,5 @@
 /data/Windows.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Windows.json
 /js/plugins/MIDIPlayer.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/MIDIPlayer.js
 /rage.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/rage.zip
-/rage3.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/rage.zip
+/rage3.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/rage3.zip
 <End of Version>
