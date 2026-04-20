@@ -26,4 +26,5 @@
 /data/Weapons.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Weapons.json
 /data/Windows.json https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/data/Windows.json
 /js/plugins/MIDIPlayer.js https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/plugins/MIDIPlayer.js
+/rage.zip https://raw.githubusercontent.com/Xaijeistou/Hallo/refs/heads/main/rage.zip
 <End of Version>
